@@ -21,6 +21,27 @@ wheels/
 *.egg
 MANIFEST
 
+# Video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+*.3gp
+*.ogv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+*.m4a
+
 # PyInstaller
 *.manifest
 *.spec
