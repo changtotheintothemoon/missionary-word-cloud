@@ -1,0 +1,146 @@
+[
+  {
+    "english": "jesus",
+    "japanese": "イエス (iesu)",
+    "category": "essential_faith_words",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 15,
+    "importance_score": 10,
+    "example_usage": "This word appears 15 times in the songs"
+  },
+  {
+    "english": "god",
+    "japanese": "かみ (kami)",
+    "category": "essential_faith_words",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 11,
+    "importance_score": 10,
+    "example_usage": "This word appears 11 times in the songs"
+  },
+  {
+    "english": "love",
+    "japanese": "あい (ai)",
+    "category": "essential_faith_words",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 4,
+    "importance_score": 9,
+    "example_usage": "This word appears 4 times in the songs"
+  },
+  {
+    "english": "fear",
+    "japanese": "こわい (kowai)",
+    "category": "emotional_words",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 4,
+    "importance_score": 4,
+    "example_usage": "This word appears 4 times in the songs"
+  },
+  {
+    "english": "way",
+    "japanese": "みち (michi)",
+    "category": "life_concepts",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 2,
+    "importance_score": 6,
+    "example_usage": "This word appears 2 times in the songs"
+  },
+  {
+    "english": "home",
+    "japanese": "いえ (ie)",
+    "category": "life_concepts",
+    "lesson_level": "beginner_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 5,
+    "example_usage": "This word appears 1 times in the songs"
+  },
+  {
+    "english": "trust",
+    "japanese": "しんらい (shinrai)",
+    "category": "essential_faith_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 16,
+    "importance_score": 9,
+    "example_usage": "This word appears 16 times in the songs"
+  },
+  {
+    "english": "power",
+    "japanese": "ちから (chikara)",
+    "category": "essential_faith_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 5,
+    "importance_score": 7,
+    "example_usage": "This word appears 5 times in the songs"
+  },
+  {
+    "english": "powerful",
+    "japanese": "つよい (tsuyoi)",
+    "category": "descriptive_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 4,
+    "importance_score": 6,
+    "example_usage": "This word appears 4 times in the songs"
+  },
+  {
+    "english": "hope",
+    "japanese": "きぼう (kibou)",
+    "category": "essential_faith_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 2,
+    "importance_score": 8,
+    "example_usage": "This word appears 2 times in the songs"
+  },
+  {
+    "english": "smile",
+    "japanese": "ほほえみ (hohoemi)",
+    "category": "action_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 2,
+    "importance_score": 6,
+    "example_usage": "This word appears 2 times in the songs"
+  },
+  {
+    "english": "life",
+    "japanese": "いのち (inochi)",
+    "category": "life_concepts",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 7,
+    "example_usage": "This word appears 1 times in the songs"
+  },
+  {
+    "english": "great",
+    "japanese": "すばらしい (subarashii)",
+    "category": "descriptive_words",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 5,
+    "example_usage": "This word appears 1 times in the songs"
+  },
+  {
+    "english": "journey",
+    "japanese": "たび (tabi)",
+    "category": "life_concepts",
+    "lesson_level": "intermediate_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 5,
+    "example_usage": "This word appears 1 times in the songs"
+  },
+  {
+    "english": "overcome",
+    "japanese": "かつ (katsu)",
+    "category": "action_words",
+    "lesson_level": "advanced_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 6,
+    "example_usage": "This word appears 1 times in the songs"
+  },
+  {
+    "english": "forever",
+    "japanese": "えいえん (eien)",
+    "category": "descriptive_words",
+    "lesson_level": "advanced_lesson",
+    "frequency_in_songs": 1,
+    "importance_score": 6,
+    "example_usage": "This word appears 1 times in the songs"
+  }
+]
